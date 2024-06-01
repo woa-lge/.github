@@ -1,12 +1,16 @@
-## Hi there 👋
+# The home of LgeWOA
 
-<!--
+The woa-lge organisation on github hosts several repositories by community members in order to provide Windows ARM64 ports to the Lge Devices
 
-**Here are some ideas to get you started:**
+## Our links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Telegram](https://t.me/winong8x)
+
+## Repositories
+
+We host several repositories for providing resources for the LgeWOA project, as well as several open source projects of various components.
+
+Key projects include:
+
+- UEFI ports (Most of the hard work being graciously done by the [WOA-Project](https://github.com/WOA-Project) and [Renegade Project](https://github.com/edk2-porting) orgs.)
+- Driver Packages (Again, most of the hard work being graciously done by the [WOA-Project](https://github.com/WOA-Project) orgs)
