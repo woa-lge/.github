@@ -4,7 +4,7 @@ The woa-lge organisation on github hosts several repositories by community membe
 
 ## Our links
 
-[Telegram](https://t.me/winong8x)
+[Telegram](https://t.me/lgedevices)
 
 ## Repositories
 
